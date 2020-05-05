@@ -1,0 +1,8 @@
+1) open Main file (this is the main page)
+2)schedule
+3)ticket price
+4)nowshowing
+5)nextarrivals 
+6)login and sign up 
+7)contact
+8)others in side page of Main page.

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 14px/1 'Open Sans', sans-serif;
+  color: #555;
+  background: #e5e5e5;
+}
+body{
+  background-image:url("rul.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.gallery {
+  width: 640px;
+  margin: 0 auto;
+  padding: 5px;
+  background:#6DD5C6;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+
+.gallery > div {
+  position: relative;
+  float: left;
+  padding: 12px;
+  
+}
+
+.gallery > div > img {
+  display: block;
+  width:600px;
+  transition: .1s transform;
+  transform: translateZ(0); /* hack */
+}
+
+.gallery > div:hover {
+  z-index: 1;
+}
+
+.gallery > div:hover > img {
+  transform: scale(1.7,1.7);
+  transition: .3s transform;
+}
+
+
+.cf:before, .cf:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.cf:after {
+  clear: both;
+}
+
+h1 {
+  margin: 40px 0;
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+  <h1 style="font-weight: bold;color: #cc00ff;font-family: arial sans-serif ;background-color:#6DD5C6;font-size:30px">NOW SHOWING MOVIES</h1>
+  <h1 style="font-weight: bold;color:#D81C49  ;background-color:#B3FB57">click the picture to see the IMDB and ROTTEN TOMATOES  reviws </h1>
+
+<div class="gallery cf">
+  
+<div>
+    <a href="justice.html">
+    <img src="sk/jus.png" />
+  </a></div>
+  
+  
+  <div><a href="jumanji.html">
+    <img src="sk/2.png" /></a>
+  </div>
+  
+
+  <div> <a href="DhakaAttack.html">
+    <img src="sk/3.png" /></a>
+  </div>
+  
+  <div><a href="mother.html">
+    <img src="sk/4.png" /></a>
+  </div>
+  
+
+  <div><a href="daddy.html">
+    <img src="sk/5.png" /></a>
+  </div>
+  
+
+  <div><a href="Boo2.html">
+    <img src="sk/6.png" /></a>
+  </div>
+  
+
+  <div><a href="Haldaa.html">
+    <img src="sk/7.png" /></a>
+  </div>
+  
+  <div><a href="StarWarsTheLastJed.html">
+    <img src="sk/8.png" /></a>
+  </div>
+  
+  <div><a href="AnkhiOTarBondhura.html">
+    <img src="sk/9.png" /></a>
+  </div>
+  
+  <div><a href="GohinBaluchor.html">
+    <img src="sk/10.png" /></a>
+  </div>
+  
+  <div><a href="OnlytheBrave.html ">
+    <img src="sk/11.png" /></a>
+  </div>
+  
+
+  <div><a href="wonder.html">
+    <img src="sk/12.png" /></a>
+  </div>
+  
+  <div><a href="Stronger.html">
+    <img src="sk/13.png" /></a>
+  </div>
+<br>
+<br>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+<style type="text/css">
+	body{
+		background-image:url("rul.jpg");
+		background-color: #cccccc;
+		background-repeat: no-repeat;
+        background-size: cover;
+        padding: 20px;
+	}
+</style>
+</head>
+<body class="rep" >
+	<style>
+        table td{ text-align:center; }
+        </style>
+        
+        <div class="bg_gray">
+        <div class="container">
+           <h3 style="color:#990033;font-weight:bold;font-size: 30px;background-color:#B3FB57;text-align: center;">Ticket Price</h3>
+           <br>
+           <p style="margin-bottom:5px;color:#990033;font-size:26px">MATINEE SHOW (TILL 3:30 PM) Except Weekends and Other Holidays</p> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">2D MOVIES</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>
+                    <td bgcolor="#ff80ff">E-FRONT</td>
+                    <td bgcolor="#ff80ff">E-REAR</td>
+                  </tr>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 300</td>
+                    <td bgcolor="#79ff4d">BDT 350</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">3D MOVIES</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>
+                    <td bgcolor="#ff80ff">E-FRONT</td>
+                    <td bgcolor="#ff80ff">E-REAR</td>
+                  </tr>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 350</td>
+                    <td bgcolor="#79ff4d">BDT 400</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div>   
+           
+           
+           <p>&nbsp;</p>
+           
+           
+           <p style="margin-bottom:5px;color:#990033;font-size:26px">ALL WEEKEND & OTHER SHOWS OF WEEKDAYS:</p> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">2D MOVIES</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>
+                    <td bgcolor="#ff80ff">E-FRONT</td>
+                    <td bgcolor="#ff80ff">E-REAR</td>
+                  </tr>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 400</td>
+                    <td bgcolor="#79ff4d">BDT 450</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">3D MOVIES</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>
+                    <td bgcolor="#ff80ff">E-FRONT</td>
+                    <td bgcolor="#ff80ff">E-REAR</td>
+                  </tr>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 450</td>
+                    <td bgcolor="#79ff4d">BDT 500</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div>   
+           
+           
+           <p>&nbsp;</p>
+           
+           
+           <p style="margin-bottom:5px;color:#990033;font-size:26px">CLUB ROYALE</p> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">Executive</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 600</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div> 
+           
+           <div class="col-md-6 col-sm-6">
+              <div class="row">
+              <table class="table table-striped table-bordered table-condensed">
+                <thead>
+                  
+                    <p style="margin-bottom:0; padding:5px 7px; text-align:center; background:#4dd2ff; color:#FFF;color:#990033;font-size:26px">Business</p>
+                  
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td bgcolor="#79ff4d">BDT 1000</td>
+                  </tr>
+                </tbody>
+              </table> 
+              </div>
+           </div>    
+           
+        </div>
+        </div>
+
+</body>
+</html>
+
